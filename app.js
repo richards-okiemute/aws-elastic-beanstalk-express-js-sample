@@ -5,4 +5,4 @@ const port = 8080;
 app.get('/', (req, res) => res.send('AWS simple web application'));
 
 app.listen(port);
-console.log(`App running on http://localhost:${port}`);
+console.log(`My Simple Web Application  running on http://localhost:${port}`);
